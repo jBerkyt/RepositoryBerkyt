@@ -1,0 +1,8 @@
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\obj\Debug\zadaniedll.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\bin\Debug\zadaniedll.exe
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\bin\Debug\zadaniedll.pdb
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\bin\Debug\lib2.dll
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\bin\Debug\lib2.pdb
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\obj\Debug\zadaniedll.csproj.CopyComplete
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\obj\Debug\zadaniedll.exe
+C:\Users\stud\Downloads\PortableGit-Рахимжанов\TrainingRepository\Zadanie\zadaniedll\obj\Debug\zadaniedll.pdb
